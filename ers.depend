@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1638884894 source:/home/quilt/Network Homework/ers/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<signal.h>
+	<errno.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<netinet/ip.h>
+	<netinet/ip_icmp.h>
+	<sys/time.h>
+	"Bool.h"
+	"NetUtil.h"
+
+1638882485 /home/quilt/Network Homework/ers/Bool.h
+
+1638884796 /home/quilt/Network Homework/ers/NetUtil.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<netinet/ip.h>
+
